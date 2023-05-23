@@ -29,7 +29,7 @@ Enhancing my skill set with web development using React. Check out my first web 
     </td>
     <td width="50%">
       <b>Winspector</b><br>
-      An inspection tool built with C#. [Check out the project](https://github.com/sezerad/Winspector)
+      An inspection tool built with C#. https://github.com/sezerad/Winspector
     </td>
   </tr>
   <tr>
