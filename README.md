@@ -46,9 +46,9 @@ A VBA macro project, allowing vendors to enter invoice details in Excel and auto
 - **Primary Skill:** Proficient in C#
 - **RPA Skills:** UiPath, Blue Prism
 - **Other Programming Languages:** VB.NET, VBA
-- **Technologies:** Git, GitHub, Bitbucket, Visual Studio
+- **Technologies:** Git, GitHub, Visual Studio
 - **Project Management:** Agile, Scrum, Kanban, Jira, Confluence
-- **Learning:** React.js
+- **Learning:** React.js, TypeScript
 
 
 <p align="center">
