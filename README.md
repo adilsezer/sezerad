@@ -15,7 +15,7 @@ I'm currently learning web development using React and other necessary tools, wi
 Enhancing my skill set with web development using React. Check out my first web development project [here](https://github.com/sezerad/noriu-kalbeti).
 
 <a href="https://github.com/sezerad/noriu-kalbeti" target="_blank">
-  <img src="https://raw.githubusercontent.com/sezerad/noriu-kalbeti/main/src/assets/images/noriu-kalbeti-full-image.png" alt="Noriu Kalbeti Project Screenshot" width="80%">
+  <img src="https://raw.githubusercontent.com/sezerad/noriu-kalbeti/main/src/assets/images/noriu-kalbeti-full-image.png" alt="Noriu Kalbeti Project Screenshot" width="85%">
 </a>
 
 ## 🔥 My Featured Applications
