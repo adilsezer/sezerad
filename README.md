@@ -20,26 +20,41 @@ Enhancing my skill set with web development using React. Check out my first web 
 
 ## 🔥 My Featured Applications
 
-<a href="https://github.com/sezerad/Winspector">
-    <img src="Winspector/repo/image/path" width="250" align="right">
-</a>
-
-**Winspector**  
-An inspection tool built with C# that identifies attributes of automation elements dynamically, assisting developers to perform clicking, and typing activities easier via UI automation. [Check out the project](https://github.com/sezerad/Winspector)
-
-<a href="https://github.com/sezerad/PdfTextExtractor">
-    <img src="PdfTextExtractor/repo/image/path" width="250" align="right">
-</a>
-
-**PdfTextExtractor**  
-A VB.NET application developed for extracting text from PDF files. Users specify a folder to monitor for new PDF files and the application automatically extracts their text using Tesseract OCR. [Check out the project](https://github.com/sezerad/PdfTextExtractor)
-
-<a href="https://github.com/sezerad/InvoiceGenerator">
-    <img src="InvoiceGenerator/repo/image/path" width="250" align="right">
-</a>
-
-**InvoiceGenerator**  
-A VBA macro project, allowing vendors to enter invoice details in Excel and automatically create PDF invoices based on a predefined company template. [Check out the project](https://github.com/sezerad/InvoiceGenerator)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/sezerad/Winspector">
+        <img src="https://raw.githubusercontent.com/sezerad/Winspector/main/Screenshots/WinspectorScreenshot.png" width="100%">
+      </a>
+    </td>
+    <td width="50%">
+      <b>Winspector</b><br>
+      An inspection tool built with C#. [Check out the project](https://github.com/sezerad/Winspector)
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sezerad/PdfTextExtractor">
+        <img src="https://raw.githubusercontent.com/sezerad/PdfTextExtractor/main/repo/image/path" width="100%">
+      </a>
+    </td>
+    <td>
+      <b>PdfTextExtractor</b><br>
+      A VB.NET application developed for extracting text from PDF files. [Check out the project](https://github.com/sezerad/PdfTextExtractor)
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sezerad/InvoiceGenerator">
+        <img src="https://raw.githubusercontent.com/sezerad/InvoiceGenerator/main/repo/image/path" width="100%">
+      </a>
+    </td>
+    <td>
+      <b>InvoiceGenerator</b><br>
+      A VBA macro project for automated invoice generation. [Check out the project](https://github.com/sezerad/InvoiceGenerator)
+    </td>
+  </tr>
+</table>
 
 ## 👨‍💻 Skills 
 
