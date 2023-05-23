@@ -6,8 +6,6 @@ I'm a seasoned C# developer with a specialized background as a Certified UiPath 
 
 I'm currently learning web development using React and other necessary tools, with a focus on building robust and efficient web applications.
 
-![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sezerad&show_icons=true&theme=radical)
-
 ## 📫 Reach me 
 - 📧 sezeradil@gmail.com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/adilsezer)
@@ -48,5 +46,16 @@ A VBA macro project, allowing vendors to enter invoice details in Excel and auto
 - **Project Management:** Agile, Scrum, Kanban, Jira, Confluence
 - **Learning:** React.js
 
-## 🔥 Streak stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sezerad)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+<p align="center">
+  <table width="100%">
+    <tr>
+        <th><h3 align="center">📊 GitHub Stats</h3></th>
+        <th><h3 align="center">🔥 GitHub Streaks</h3></th>
+    </tr>
+    <tr>
+        <td><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=sezerad&show_icons=true&theme=radical" /></td>
+        <td><img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sezerad&theme=radical" /></td>
+    </tr>   
+  </table>
+</p>
