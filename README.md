@@ -12,8 +12,11 @@ I'm currently learning web development using React and other necessary tools, wi
 
 ## 🌱 I’m currently learning
 
-Enhancing my skill set with web development using React. Check out my first web development project [here](https://github.com/sezerad/your-first-web-project).
-![Screenshot of My Web App](https://raw.githubusercontent.com/sezerad/sezerad/main/src/assets/images/noriu-kalbeti-full-image.png)
+Enhancing my skill set with web development using React. Check out my first web development project [here](https://github.com/sezerad/noriu-kalbeti).
+
+<a href="https://github.com/sezerad/noriu-kalbeti" target="_blank">
+  <img src="https://raw.githubusercontent.com/sezerad/noriu-kalbeti/main/src/assets/images/noriu-kalbeti-full-image.png" alt="Noriu Kalbeti Project Screenshot" width="75%">
+</a>
 
 ## 🔥 My Featured Applications
 
