@@ -22,36 +22,39 @@ Enhancing my skill set with web development using React. Check out my first web 
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="70%">
       <a href="https://github.com/sezerad/Winspector">
         <img src="https://raw.githubusercontent.com/sezerad/Winspector/main/Screenshots/WinspectorScreenshot.png" width="100%">
       </a>
     </td>
-    <td width="50%">
+    <td width="30%">
       <b>Winspector</b><br>
-      An inspection tool built with C#. https://github.com/sezerad/Winspector
+      An inspection tool built with C#.
+      https://github.com/sezerad/Winspector
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/sezerad/PdfTextExtractor">
-        <img src="https://raw.githubusercontent.com/sezerad/PdfTextExtractor/main/repo/image/path" width="100%">
+        <img src="https://raw.githubusercontent.com/sezerad/PdfTextExtractor/main/PdfTextExtractor/Screenshots/PdfTextExtractorGUI.PNG" width="100%">
       </a>
     </td>
     <td>
       <b>PdfTextExtractor</b><br>
-      A VB.NET application developed for extracting text from PDF files. [Check out the project](https://github.com/sezerad/PdfTextExtractor)
+      A VB.NET application developed for extracting text from PDF files.
+      https://github.com/sezerad/PdfTextExtractor
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/sezerad/InvoiceGenerator">
-        <img src="https://raw.githubusercontent.com/sezerad/InvoiceGenerator/main/repo/image/path" width="100%">
+        <img src="https://raw.githubusercontent.com/sezerad/InvoiceGenerator/master/Screenshots/InvoiceExample.png" width="100%">
       </a>
     </td>
     <td>
       <b>InvoiceGenerator</b><br>
-      A VBA macro project for automated invoice generation. [Check out the project](https://github.com/sezerad/InvoiceGenerator)
+      A VBA macro project for automated invoice generation.
+      https://github.com/sezerad/InvoiceGenerator
     </td>
   </tr>
 </table>
